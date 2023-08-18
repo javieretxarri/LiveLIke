@@ -9,13 +9,14 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+        NavigationStack {
+            VStack {
+                Text("This is main view")
+            }
+            NavigationLink("Click here and go to the Poll") {
+                WidgetSwiftIUI(engagementSDK: EngamenteSDK.shared.engagementSDK, horizontalPadding: 15)
+            }
         }
-        .padding()
     }
 }
 

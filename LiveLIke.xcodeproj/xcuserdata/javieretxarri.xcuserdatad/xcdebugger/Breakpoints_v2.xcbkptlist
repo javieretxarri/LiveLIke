@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DB5D3409-2922-4488-8DBF-3B82EABF8B1C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F172D8AD-9E69-4646-81A2-BA38C9538160"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "251"
+            endingLineNumber = "251"
+            landmarkName = "moveToNextState()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3085DBD-DC12-4B34-A313-EDD22AD3C913"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "252"
+            endingLineNumber = "252"
+            landmarkName = "moveToNextState()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF53690D-DFBF-434B-8776-3BA460CD7773"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "currentState"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CC8991D-E028-4647-B239-89F0B9DC6651"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "currentState"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8CC8991D-E028-4647-B239-89F0B9DC6651 - d3c6d7b588de2955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EngagementSDK.PollWidgetViewController.currentState.didset : EngagementSDK.WidgetState"
+                  moduleName = "LiveLIke"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/javieretxarri/Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "8CC8991D-E028-4647-B239-89F0B9DC6651 - abf5c3253753f828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in EngagementSDK.PollWidgetViewController.currentState.didset : EngagementSDK.WidgetState"
+                  moduleName = "LiveLIke"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/javieretxarri/Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D85277E-5C73-4E83-A239-9E94FDF77039"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "currentState"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39F5443B-D79E-4D2C-8660-FFCC662F65FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "currentState"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F3C9E78-3BD3-407D-8326-1D3A21639B58"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "currentState"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D7E4B0C-BE56-400C-91EB-A5AD0C822D55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "currentState"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF90E56B-5885-4E6D-8CEE-21C368197786"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "currentState"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A182AF0B-9F6C-4292-AAC3-EC6C507C07EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/DefaultWidgetStateController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "widgetDidEnterState(widget:state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ABD0283-0173-489A-877A-5FC433BFEE19"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/Core/InteractiveWidgetTimelineViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "makeWidget(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "656FFFA3-6887-4AE7-8495-B4B6B7EF7E9E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/TimelineWidgetViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "widgetDidEnterState(widget:state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94F7276E-D3D7-4A06-BC41-2C3268BE763F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/TimelineWidgetViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "widgetStateCanComplete(widget:state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5F39372-9F1B-45F8-9D3C-A04C20A9EFB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/Core/WidgetPopupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "266"
+            endingLineNumber = "266"
+            landmarkName = "showNextWidgetInQueue()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93847392-CD98-48F9-90F7-37B5E8C95014"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/Core/WidgetPopupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "253"
+            endingLineNumber = "253"
+            landmarkName = "showNextWidgetInQueue()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EB1E75B-AB90-41A7-A742-B6E21B124B3E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/Core/WidgetTimelineViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "makeWidget(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0535AF20-0609-4D4B-9946-D1C064C0213E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/Core/WidgetTimelineViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "makeWidget(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5207264-85BB-430E-8C4A-CD3816B29B0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/Core/WidgetPopupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "showNextWidgetInQueue()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A5207264-85BB-430E-8C4A-CD3816B29B0D - 5f061d48767655c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EngagementSDK.WidgetPopupViewController.showNextWidgetInQueue() -&gt; ()"
+                  moduleName = "LiveLIke"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/javieretxarri/Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/Core/WidgetPopupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "246"
+                  endingLineNumber = "246"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "A5207264-85BB-430E-8C4A-CD3816B29B0D - c0fc11bef3a34d7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in EngagementSDK.WidgetPopupViewController.showNextWidgetInQueue() -&gt; ()"
+                  moduleName = "LiveLIke"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/javieretxarri/Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/Core/WidgetPopupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "246"
+                  endingLineNumber = "246"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6C56F54-84FC-4E99-8169-BEAB22A36A72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/Core/WidgetPopupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "244"
+            endingLineNumber = "244"
+            landmarkName = "showNextWidgetInQueue()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A6DF3CF-840E-4BF7-9E3E-1C35DBDCCB9B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68A20287-AEA0-4D4D-82E9-5F4C3B03CB60"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "292"
+            endingLineNumber = "292"
+            landmarkName = "disableInteractions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92FCD8DE-79AC-4A02-AE34-9ED198517E31"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/LiveLikeSwift/Widget/Models/BaseWidgetModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "getSecondsUntilInteractivityExpiration()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "037DB3CF-D8B1-4B12-A345-3089925FE75F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/LiveLikeSwift/Widget/Models/BaseWidgetModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "getSecondsUntilInteractivityExpiration()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB8854D0-11CA-456E-BCF4-66E2EB81A430"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/Core/WidgetView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "353"
+            endingLineNumber = "353"
+            landmarkName = "beginInteractiveUntilTimer(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F098965C-D38B-47CC-ADD9-BC21A19882D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A0C1C42-8620-4B12-AEDA-F3582AE5B78D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/LiveLikeSwift/Widget/Models/BaseWidgetModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "registerImpression(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7C62CEB-2176-41F3-A17A-6FEB64B00C70"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/LiveLikeCore/Promise.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "265"
+            endingLineNumber = "265"
+            landmarkName = "fireCallbacksIfCompleted()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
