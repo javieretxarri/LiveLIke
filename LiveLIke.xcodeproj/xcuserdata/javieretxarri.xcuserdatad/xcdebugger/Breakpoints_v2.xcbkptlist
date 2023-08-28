@@ -392,7 +392,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "68A20287-AEA0-4D4D-82E9-5F4C3B03CB60"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/PollWidget/PollWidgetViewController.swift"
@@ -440,7 +440,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "FB8854D0-11CA-456E-BCF4-66E2EB81A430"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/Core/WidgetView.swift"
