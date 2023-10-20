@@ -306,6 +306,38 @@
             endingLineNumber = "48"
             landmarkName = "makeWidget(_:)"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0535AF20-0609-4D4B-9946-D1C064C0213E - b914867355e2c483"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EngagementSDK.WidgetTimelineViewController.makeWidget(LiveLikeSwift.WidgetModel) -&gt; Swift.Optional&lt;__C.UIViewController&gt;"
+                  moduleName = "LiveLIke"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/javieretxarri/Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/Core/WidgetTimelineViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "0535AF20-0609-4D4B-9946-D1C064C0213E - b914867355e2c483"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EngagementSDK.WidgetTimelineViewController.makeWidget(LiveLikeSwift.WidgetModel) -&gt; Swift.Optional&lt;__C.UIViewController&gt;"
+                  moduleName = "LiveLIke"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/javieretxarri/Library/Developer/Xcode/DerivedData/LiveLIke-boklvtuylxdnxsfmbosgclmmsctd/SourcePackages/checkouts/livelike-ios-sdk/Sources/EngagementSDK/UI/Widget/Core/WidgetTimelineViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy

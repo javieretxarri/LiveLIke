@@ -15,10 +15,10 @@ class WidgetViewController: UIViewController {
     var horizontalPadding: CGFloat!
     var error: Error?
     
-    override func viewDidLoad() {
-        super.viewDidLoad()
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
         
-        engagementSDK.getWidgetModel(id: "7acec930-d9de-46a2-b9a8-7bd6b68865eb", kind: .textPoll) { result in
+        engagementSDK.getWidgetModel(id: "99e20b30-3b94-47d9-8e29-bf6b6205eda2", kind: .textPoll) { result in
             switch result {
                 case .success(let widget):
                     
